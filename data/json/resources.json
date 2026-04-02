@@ -94,5 +94,11 @@
     "description": "cloudflare部署的TG图床",
     "url": "\thttps://tg.52cbg.cn/",
     "category": "library"
+  },
+  {
+    "name": "misub",
+    "description": "cloudflare部署的misub",
+    "url": "https://sub.52cbg.cn/login",
+    "category": "library"
   }
 ]
