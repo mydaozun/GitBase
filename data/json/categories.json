@@ -36,21 +36,21 @@
   },
   {
     "id": "tool",
-    "name": "Tool",
+    "name": "zeabur",
     "types": ["resource"],
     "color": "green",
     "description": "Development tools"
   },
   {
     "id": "service",
-    "name": "Service",
+    "name": "甲骨文",
     "types": ["resource"],
     "color": "purple",
     "description": "Online services"
   },
   {
     "id": "library",
-    "name": "Library",
+    "name": "cloudflare",
     "types": ["resource"],
     "color": "orange",
     "description": "Code libraries"
