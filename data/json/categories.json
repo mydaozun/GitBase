@@ -17,19 +17,19 @@
     "id": "documentation",
     "name": "Documentation",
     "types": ["article"],
-    "color": "purple",
+    "color": "green",
     "description": "Technical documentation"
   },
   {
     "id": "news",
-    "name": "News",
+    "name": "netlify",
     "types": ["article"],
     "color": "red",
     "description": "Latest updates and announcements"
   },
   {
     "id": "framework",
-    "name": "Framework",
+    "name": "vercel",
     "types": ["resource"],
     "color": "blue",
     "description": "Development frameworks"
@@ -38,14 +38,14 @@
     "id": "tool",
     "name": "zeabur",
     "types": ["resource"],
-    "color": "green",
+    "color": "purple",
     "description": "Development tools"
   },
   {
     "id": "service",
     "name": "甲骨文",
     "types": ["resource"],
-    "color": "purple",
+    "color": "red",
     "description": "Online services"
   },
   {
