@@ -12,9 +12,9 @@
     "category": "tool"
   },
   {
-    "name": "Music Player",
-    "description": "Online Music Player",
-    "url": "https://musicplayer-olive.vercel.app/",
-    "category": "tool"
+    "name": "cliproxyapi",
+    "description": "clawcloud run部署的cliproxyapi",
+    "url": "https://api.52cbg.cn",
+    "category": ""
   }
 ]
