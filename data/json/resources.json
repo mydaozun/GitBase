@@ -14,7 +14,9 @@
   {
     "name": "Shadcn/ui",
     "description": "Re-usable components built with Radix UI and Tailwind CSS",
-    "url": "https://ui.shadcn.com/"
+    "url": "https://ui.shadcn.com/",
+    "deleted": true,
+    "deletedAt": "2026-04-02T15:11:42.851Z"
   },
   {
     "name": "Vercel",
