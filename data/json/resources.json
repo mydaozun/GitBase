@@ -64,5 +64,11 @@
     "description": "甲骨文云部署的1panel面板",
     "url": "http://140.245.42.166:23371/1panel",
     "category": "service"
+  },
+  {
+    "name": "docker web ui",
+    "description": "甲骨文云部署的docker web ui",
+    "url": "http://140.245.42.166:5001/",
+    "category": "service"
   }
 ]
