@@ -81,7 +81,7 @@
     "name": "全网热搜榜",
     "description": "cloudflare部署的全网热搜榜",
     "url": "https://top.52cbg.cn/",
-    "category": "library"
+    "category": "framework"
   },
   {
     "name": "warp优选IP",
