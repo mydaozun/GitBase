@@ -139,7 +139,7 @@
   },
   {
     "name": "91写作",
-    "description": "cloudflare部署的91写作",
+    "description": "vercel部署的91写作",
     "url": "https://91.1penel.cc.cd/",
     "category": "framework"
   },
