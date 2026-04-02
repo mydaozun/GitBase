@@ -70,5 +70,11 @@
     "description": "甲骨文云部署的docker web ui",
     "url": "http://140.245.42.166:5001/",
     "category": "service"
+  },
+  {
+    "name": "wuwayomi",
+    "description": "甲骨文云部署的wuwayomi",
+    "url": "https://su.52cbg.cn/",
+    "category": "service"
   }
 ]
