@@ -40,5 +40,11 @@
     "description": "甲骨文云部署的cliproxyapi",
     "url": "https://api.1penel.cc.cd",
     "category": "service"
+  },
+  {
+    "name": "mytube",
+    "description": "甲骨文云部署的mytube",
+    "url": "https://mytube.1penel.cc.cd",
+    "category": "service"
   }
 ]
