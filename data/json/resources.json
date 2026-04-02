@@ -79,7 +79,7 @@
   },
   {
     "name": "全网热搜榜",
-    "description": "cloudflare部署的全网热搜榜",
+    "description": "vercel部署的全网热搜榜",
     "url": "https://top.52cbg.cn/",
     "category": "framework"
   },
