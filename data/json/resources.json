@@ -106,5 +106,11 @@
     "description": "cloudflare部署的sub one",
     "url": "https://one.52cbg.cn/",
     "category": "library"
+  },
+  {
+    "name": "cf-workers-sub",
+    "description": "cloudflare部署的cf-workers-sub",
+    "url": "https://cloud.52cbg.cn/adminroot",
+    "category": "library"
   }
 ]
