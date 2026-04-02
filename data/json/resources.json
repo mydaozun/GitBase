@@ -154,5 +154,11 @@
     "description": "vercel部署的MoonTV",
     "url": "https://moontv.52cbg.cn/login?redirect=%2F",
     "category": "framework"
+  },
+  {
+    "name": "decotv",
+    "description": "vercel部署的decotv",
+    "url": "https://decotv.52cbg.cn/login?redirect=%2F",
+    "category": "framework"
   }
 ]
