@@ -58,5 +58,11 @@
     "description": "甲骨文云部署的mumu（AI写小说）",
     "url": "https://mumu.1penel.cc.cd",
     "category": "service"
+  },
+  {
+    "name": "1panel面板",
+    "description": "甲骨文云部署的1panel面板",
+    "url": "http://140.245.42.166:23371/1panel",
+    "category": "service"
   }
 ]
