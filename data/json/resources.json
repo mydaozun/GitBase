@@ -2,7 +2,9 @@
   {
     "name": "Next.js",
     "description": "The React Framework for the Web",
-    "url": "https://nextjs.org/"
+    "url": "https://nextjs.org/",
+    "deleted": true,
+    "deletedAt": "2026-04-02T15:12:14.091Z"
   },
   {
     "name": "Tailwind CSS",
