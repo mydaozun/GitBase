@@ -160,5 +160,11 @@
     "description": "vercel部署的decotv",
     "url": "https://decotv.52cbg.cn/login?redirect=%2F",
     "category": "framework"
+  },
+  {
+    "name": "upstash数据库",
+    "description": "upstash数据库",
+    "url": "https://upstash.com/",
+    "category": "tutorial"
   }
 ]
