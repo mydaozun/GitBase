@@ -28,5 +28,11 @@
     "description": "甲骨文云部署的cloudreve",
     "url": "https://dreve.1penel.cc.cd",
     "category": "service"
+  },
+  {
+    "name": "AstrBot",
+    "description": "甲骨文云部署的AstrBot",
+    "url": "https://bot.1penel.cc.cd",
+    "category": "service"
   }
 ]
