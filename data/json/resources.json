@@ -166,5 +166,11 @@
     "description": "upstash数据库",
     "url": "https://upstash.com/",
     "category": "tutorial"
+  },
+  {
+    "name": "hi168",
+    "description": "hi168的S3存储桶",
+    "url": "https://www.hi168.com/",
+    "category": "tutorial"
   }
 ]
