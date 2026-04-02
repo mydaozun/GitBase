@@ -124,5 +124,11 @@
     "description": "cloudflare部署的网盘",
     "url": "https://pan.52cbg.cn/",
     "category": "library"
+  },
+  {
+    "name": "CFwebdav",
+    "description": "cloudflare部署的webdav",
+    "url": "https://webdav.52cbg.cn/",
+    "category": "library"
   }
 ]
