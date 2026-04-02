@@ -21,7 +21,9 @@
   {
     "name": "Vercel",
     "description": "Cloud platform for static sites and Serverless Functions",
-    "url": "https://vercel.com/"
+    "url": "https://vercel.com/",
+    "deleted": true,
+    "deletedAt": "2026-04-02T15:11:59.724Z"
   },
   {
     "name": "Github.com",
