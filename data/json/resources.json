@@ -22,5 +22,11 @@
     "description": "甲骨文云部署的OpenList",
     "url": "https://list.1penel.cc.cd",
     "category": "service"
+  },
+  {
+    "name": "cloudreve",
+    "description": "甲骨文云部署的cloudreve",
+    "url": "https://dreve.1penel.cc.cd",
+    "category": "service"
   }
 ]
