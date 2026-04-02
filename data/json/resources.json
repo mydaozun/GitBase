@@ -1,36 +1,9 @@
 [
   {
-    "name": "Next.js",
-    "description": "The React Framework for the Web",
-    "url": "https://nextjs.org/",
-    "deleted": true,
-    "deletedAt": "2026-04-02T15:12:19.246Z"
-  },
-  {
-    "name": "Tailwind CSS",
-    "description": "A utility-first CSS framework",
-    "url": "https://tailwindcss.com/",
-    "deleted": true,
-    "deletedAt": "2026-04-02T15:12:58.754Z"
-  },
-  {
-    "name": "Shadcn/ui",
-    "description": "Re-usable components built with Radix UI and Tailwind CSS",
-    "url": "https://ui.shadcn.com/",
-    "deleted": true,
-    "deletedAt": "2026-04-02T15:13:13.215Z"
-  },
-  {
-    "name": "Vercel",
-    "description": "Cloud platform for static sites and Serverless Functions",
-    "url": "https://vercel.com/",
-    "deleted": true,
-    "deletedAt": "2026-04-02T15:12:08.791Z"
-  },
-  {
     "name": "Github.com",
     "description": "The world's leading platform for version control and collaborative software development.",
-    "url": "https://github.com/"
+    "url": "https://github.com/",
+    "category": "library"
   },
   {
     "name": "Woy.ai",
