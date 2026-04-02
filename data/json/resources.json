@@ -16,5 +16,11 @@
     "description": "clawcloud run部署的cliproxyapi",
     "url": "https://api.52cbg.cn",
     "category": ""
+  },
+  {
+    "name": "OpenList",
+    "description": "甲骨文云部署的OpenList",
+    "url": "https://list.1penel.cc.cd",
+    "category": "service"
   }
 ]
