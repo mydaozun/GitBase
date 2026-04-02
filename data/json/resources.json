@@ -100,5 +100,11 @@
     "description": "cloudflare部署的misub",
     "url": "https://sub.52cbg.cn/login",
     "category": "library"
+  },
+  {
+    "name": "sub one",
+    "description": "cloudflare部署的sub one",
+    "url": "https://one.52cbg.cn/",
+    "category": "library"
   }
 ]
