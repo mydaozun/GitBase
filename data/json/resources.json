@@ -112,5 +112,11 @@
     "description": "cloudflare部署的cf-workers-sub",
     "url": "https://cloud.52cbg.cn/adminroot",
     "category": "library"
+  },
+  {
+    "name": "利润计算机",
+    "description": "cloudflare部署的利润计算机",
+    "url": "https://gj.52cbg.cn/",
+    "category": "library"
   }
 ]
