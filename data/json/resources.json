@@ -130,5 +130,11 @@
     "description": "cloudflare部署的webdav",
     "url": "https://webdav.52cbg.cn/",
     "category": "library"
+  },
+  {
+    "name": "astro博客",
+    "description": "cloudflare部署的astro博客",
+    "url": "https://bk.52cbg.cn/",
+    "category": "library"
   }
 ]
