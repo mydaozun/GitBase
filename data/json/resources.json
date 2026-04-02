@@ -46,5 +46,11 @@
     "description": "甲骨文云部署的mytube",
     "url": "https://mytube.1penel.cc.cd",
     "category": "service"
+  },
+  {
+    "name": "tomato",
+    "description": "甲骨文云部署的tomato（番茄小说下载）",
+    "url": "https://td.1penel.cc.cd",
+    "category": "service"
   }
 ]
