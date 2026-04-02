@@ -82,5 +82,11 @@
     "description": "cloudflare部署的全网热搜榜",
     "url": "https://top.52cbg.cn/",
     "category": "library"
+  },
+  {
+    "name": "warp优选IP",
+    "description": "cloudflare部署的warp优选IP",
+    "url": "https://warp.52cbg.cn/1b168ecb-bbd5-4d9c-a353-d4e9f2899456",
+    "category": "library"
   }
 ]
