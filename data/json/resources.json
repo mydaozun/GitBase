@@ -76,5 +76,11 @@
     "description": "甲骨文云部署的wuwayomi",
     "url": "https://su.52cbg.cn/",
     "category": "service"
+  },
+  {
+    "name": "全网热搜榜",
+    "description": "cloudflare部署的全网热搜榜",
+    "url": "https://top.52cbg.cn/",
+    "category": "library"
   }
 ]
