@@ -118,5 +118,11 @@
     "description": "cloudflare部署的利润计算机",
     "url": "https://gj.52cbg.cn/",
     "category": "library"
+  },
+  {
+    "name": "CF网盘",
+    "description": "cloudflare部署的网盘",
+    "url": "https://pan.52cbg.cn/",
+    "category": "library"
   }
 ]
