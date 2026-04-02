@@ -52,5 +52,11 @@
     "description": "甲骨文云部署的tomato（番茄小说下载）",
     "url": "https://td.1penel.cc.cd",
     "category": "service"
+  },
+  {
+    "name": "mumuainovel",
+    "description": "甲骨文云部署的mumu（AI写小说）",
+    "url": "https://mumu.1penel.cc.cd",
+    "category": "service"
   }
 ]
