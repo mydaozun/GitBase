@@ -202,5 +202,11 @@
     "description": "AI相关（每日百万）token",
     "url": "https://anyrouter.top",
     "category": "guide"
+  },
+  {
+    "name": "cto.new",
+    "description": "AI相关（每日百万）token",
+    "url": "https://cto.new/",
+    "category": "guide"
   }
 ]
