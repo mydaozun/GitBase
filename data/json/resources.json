@@ -214,5 +214,11 @@
     "description": "AI相关（在线）",
     "url": "https://arena.ai/",
     "category": "guide"
+  },
+  {
+    "name": "kilo.ai",
+    "description": "AI相关（每日百万）token",
+    "url": "https://kilo.ai/",
+    "category": "guide"
   }
 ]
