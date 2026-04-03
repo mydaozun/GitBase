@@ -172,5 +172,11 @@
     "description": "hi168的S3存储桶",
     "url": "https://www.hi168.com/",
     "category": "tutorial"
+  },
+  {
+    "name": "ainovel",
+    "description": "甲骨文云部署的ainovel（AI写小说）",
+    "url": "http://140.245.42.166:5173/",
+    "category": "service"
   }
 ]
