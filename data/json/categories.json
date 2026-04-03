@@ -8,14 +8,14 @@
   },
   {
     "id": "guide",
-    "name": "Guide",
+    "name": "AI免费token",
     "types": ["article", "resource"],
     "color": "green",
     "description": "How-to guides and best practices"
   },
   {
     "id": "documentation",
-    "name": "Documentation",
+    "name": "openAI",
     "types": ["article"],
     "color": "green",
     "description": "Technical documentation"
