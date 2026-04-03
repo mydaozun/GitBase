@@ -208,5 +208,11 @@
     "description": "AI相关（每日百万）token",
     "url": "https://cto.new/",
     "category": "guide"
+  },
+  {
+    "name": "arena.ai",
+    "description": "AI相关（在线）",
+    "url": "https://arena.ai/",
+    "category": "guide"
   }
 ]
