@@ -4,55 +4,55 @@
     "name": "Tutorial",
     "types": ["article", "resource"],
     "color": "blue",
-    "description": "Step-by-step learning materials"
+    "description": "部署的项目"
   },
   {
     "id": "guide",
     "name": "AI免费token",
     "types": ["article", "resource"],
     "color": "green",
-    "description": "How-to guides and best practices"
+    "description": "AI免费token部署的项目"
   },
   {
     "id": "documentation",
     "name": "openAI",
     "types": ["article"],
     "color": "green",
-    "description": "Technical documentation"
+    "description": "openAI部署的项目"
   },
   {
     "id": "news",
     "name": "netlify",
     "types": ["article"],
     "color": "red",
-    "description": "Latest updates and announcements"
+    "description": "netlify部署的项目"
   },
   {
     "id": "framework",
     "name": "vercel",
     "types": ["resource"],
     "color": "blue",
-    "description": "Development frameworks"
+    "description": "vercel部署的项目"
   },
   {
     "id": "tool",
     "name": "zeabur",
     "types": ["resource"],
     "color": "purple",
-    "description": "Development tools"
+    "description": "zeabur部署的项目"
   },
   {
     "id": "service",
     "name": "甲骨文",
     "types": ["resource"],
     "color": "red",
-    "description": "Online services"
+    "description": "甲骨文部署的项目"
   },
   {
     "id": "library",
     "name": "cloudflare",
     "types": ["resource"],
     "color": "orange",
-    "description": "Code libraries"
+    "description": "cloudflare部署的项目"
   }
 ]
