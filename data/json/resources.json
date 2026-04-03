@@ -196,5 +196,11 @@
     "description": "AI相关（每日百万）token",
     "url": "https://openrouter.ai/",
     "category": "guide"
+  },
+  {
+    "name": "anyrouter",
+    "description": "AI相关（每日百万）token",
+    "url": "https://anyrouter.top",
+    "category": "guide"
   }
 ]
