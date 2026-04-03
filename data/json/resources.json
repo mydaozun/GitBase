@@ -220,5 +220,11 @@
     "description": "AI相关（每日百万）token",
     "url": "https://kilo.ai/",
     "category": "guide"
+  },
+  {
+    "name": "AI图像生成器",
+    "description": "AI图像生成器",
+    "url": "https://freeaiimage.net/zh/",
+    "category": "guide"
   }
 ]
