@@ -184,5 +184,11 @@
     "description": "AI相关（每日百万）token",
     "url": "https://fyra.im/",
     "category": "guide"
+  },
+  {
+    "name": "cerebras",
+    "description": "AI相关（每日百万）token",
+    "url": "https://api.cerebras.ai",
+    "category": "guide"
   }
 ]
