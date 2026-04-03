@@ -190,5 +190,11 @@
     "description": "AI相关（每日百万）token",
     "url": "https://api.cerebras.ai",
     "category": "guide"
+  },
+  {
+    "name": "openrouter.ai",
+    "description": "AI相关（每日百万）token",
+    "url": "https://openrouter.ai/",
+    "category": "guide"
   }
 ]
