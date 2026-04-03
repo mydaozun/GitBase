@@ -178,5 +178,11 @@
     "description": "甲骨文云部署的ainovel（AI写小说）",
     "url": "http://140.245.42.166:5173/",
     "category": "service"
+  },
+  {
+    "name": "fyra.im",
+    "description": "AI相关",
+    "url": "https://fyra.im/",
+    "category": "guide"
   }
 ]
