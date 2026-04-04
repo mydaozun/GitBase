@@ -226,5 +226,11 @@
     "description": "AI图像生成器",
     "url": "https://freeaiimage.net/zh/",
     "category": "guide"
+  },
+  {
+    "name": "ollama",
+    "description": "AI相关（每日百万）token",
+    "url": "https://ollama.com/settings/keys",
+    "category": "guide"
   }
 ]
