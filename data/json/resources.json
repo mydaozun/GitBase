@@ -238,5 +238,11 @@
     "description": "AI相关（在线）",
     "url": "https://cloud.onyx.app/",
     "category": "guide"
+  },
+  {
+    "name": "SOLO.trae",
+    "description": "AI相关（在线）",
+    "url": "https://solo.trae.cn",
+    "category": "guide"
   }
 ]
