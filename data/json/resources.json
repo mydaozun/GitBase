@@ -244,5 +244,11 @@
     "description": "AI相关（在线）",
     "url": "https://solo.trae.cn",
     "category": "guide"
+  },
+  {
+    "name": "daernovel",
+    "description": "甲骨文云部署的daer（AI写小说）",
+    "url": "http://140.245.42.166:8001",
+    "category": "guide"
   }
 ]
